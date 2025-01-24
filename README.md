@@ -1,4 +1,3 @@
-﻿# -Data-Structure-and-Algorithms-Implementations-
 # Data Structure and Algorithms Implementations
 
 This repository contains a collection of various Data Structure and Algorithm (DSA) implementations in **C++** and **Python**. It includes commonly used data structures, sorting algorithms, and other algorithmic solutions. The aim of this repository is to provide clear and efficient implementations to help both beginners and intermediate programmers learn and understand DSA concepts.
@@ -74,7 +73,3 @@ This section contains all the Python-based implementations of the algorithms and
 
 ## C++ Implementations
 This section contains all the C++-based implementations of the algorithms and data structures.
-
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
